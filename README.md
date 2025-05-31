@@ -1,5 +1,5 @@
 PROJE ADI
-İNGİLİZCE FLASHCARDs UYGULAMASI
+İNGİLİZCE FLASHCARDS UYGULAMASI
 
 HAZIRLAYAN
 SEYFETTİN DEGER
@@ -37,9 +37,8 @@ Kendim uygulamayı kullandığımda kelimeleri çok daha hızlı öğrendiğimi 
 2.	TAKIM YAPISI
 2.1.	Takım Yapısı ve Görev Dağılımı
 Projeyi kendim yalnız olarak yaptığım için tüm görevleri ben üstlendim.
-SAYI	TAKIMDAKİ GÖREVİ	EĞİTİM SEVİYESİ	SINIF	ÜYE ROLÜ
-1	Proje fikrinin üretilmesi, projenin tasarlanması ve proje raporunun yazılması	Lisans	Yüksek Lisans
-Bilimsel Hazırlık	KAPTAN 
+SAYI	TAKIMDAKİ GÖREVİ								EĞİTİM SEVİYESİ		SINIF				ÜYE ROLÜ
+1	Proje fikrinin üretilmesi, projenin tasarlanması ve proje raporunun yazılması	Lisans			Yüksek Lisans Bilimsel Hazırlık	KAPTAN 
 3.	ÇÖZÜM ÜRETTİĞİ SORUN / İHTİYAÇ 
 3.1.	Problem Tanımı ve Literatür Araştırması/Taraması 
 Işık’a göre yabancı dil eğitimi ile ilgili bir sorun da öğretim materyalleri ile ilgilidir. Yabancı dil eğitiminde,  merkez ülkelerin, dil eğitimi ile ilgili her türlü yöntem, teknik ve malzemeyi üreten ve ihraç eden durumunda olmaları ve uydu ülkelerin bunları olduğu gibi kabullenmeleri dil öğretiminde sorunlara neden olmaktadır çünkü uydu ülkeler, kendi ortamlarını, kendi öğrenci ve öğretmen istek ve gereksinimlerini, kendi ülkelerinin politika ve amaçlarını, merkez ülkelerdeki bir araştırmacıya ya da kitap yazarına kıyasla daha iyi bilebilirler ve bu yüzden kendilerine özgün yöntem teknik ve malzemeleri geliştirmeleri gerekir. Ancak bu Türkiye’nin de içinde bulunduğu bu uydu ülkeler kendilerinde yabancı dil öğretim yöntem, teknik ve malzeme üretimde gerekli gücü bulamamışlardır. Sonuç olarak, yabancı dil öğretmenleri merkeze bağımlı, tüketici teknisyen durumunda kalmışlardır (2005). 
@@ -58,7 +57,6 @@ Tasarım aşamasında ise bir nevi plan yaptım ve hangi işleri yapacağımı y
 Geliştirme aşamasında ise tasarladığım(planladığımız) programı bilgisayar ortamında hayata geçirdim. İşin en zorlu kısmı bu kısım idi. Kodlarımı Android Studio uygulamasında yazdım. 
 Test aşamasında ise Yazılım geliştirme işi bitince yazılımı kullanıp bir hata olup olmadığını test ettim. 
 Bakım aşamasında ise yazılımı vaktimiz ölçüsünde güzelleştirmeye çalıştım.
-
 
 4.2.	Hedef Kitle
 İngilizce öğrenmeyi hedef haline getirmiş herkes yaş sınırlaması olmaksızın okuduğunu anlayabiliyorsa hedef kitleme dâhildir.
